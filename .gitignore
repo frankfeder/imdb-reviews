@@ -1,6 +1,7 @@
 # Ignore huge local data files
 ReviewData/*
 imdbReviewsClean.csv
+imdbReviewsSmall.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
